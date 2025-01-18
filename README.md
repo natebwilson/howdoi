@@ -1,0 +1,3 @@
+# HOW DO I...
+
+Simple CLI command built in Python to make using Linux a little easier.
